@@ -4,6 +4,10 @@ Introducing Zymono, the ultimate anti-cheat mod for Minecraft! Tired of players 
 
 DISCLAIMER: This is based upon the anti-cheat Rubedo by Smell of Curry.
 
+# Download:
+
+[Download The AC](https://github.com/zymono/ac-bedrock/blob/main/Zymono%20ANTICHEAT.mcpack?raw=true)
+
 # Getting Started:
 
 Upon applying the pack and joining the world the operator should run the command below which gives you **Admin** permissions.

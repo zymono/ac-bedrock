@@ -198,7 +198,7 @@ Example
 
 ### -database `["admin"]`
 
-Manages Databases in rubedo, this should only be used by advanced users.
+Manages Databases in Zymono, this should only be used by advanced users.
 
 ```bash
 -database get <table: string> <key: string>
@@ -266,7 +266,7 @@ Example
 
 ## Regions
 
-Regions are an important part of rubedo. Regions protect land like spawn, parks, forests, simply anything you
+Regions are an important part of Zymono. Regions protect land like spawn, parks, forests, simply anything you
 want to protect players. Regions are really powerful because they are configurable and can stop
 all actions that happen in an area.
 
